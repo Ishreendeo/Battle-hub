@@ -1,1 +1,1 @@
-# Battle-hub
+# BattleHub
